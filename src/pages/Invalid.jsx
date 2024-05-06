@@ -4,7 +4,7 @@ export default function Invalid(){
     return(
         <div>
             <Nav />
-            <h1>Error</h1>
+            <h2>The page you're looking for can't be found</h2>
         </div>
     )
 }

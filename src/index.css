@@ -21,8 +21,8 @@ button {
   font-size: 1.2em;
   margin: 10px;
   padding: 0.9em;
-  width: 10vw;
-  height: 7vh;
+  width: 200px;
+  height: 60px;
   border-style: none;
   border-radius: 50px;
   background-color: #000014;
@@ -120,8 +120,8 @@ textarea{
 #submit > input{
   font-size: 1.2em;
   padding: 0.9em;
-  width: 12vw;
-  height: 7vh;
+  width: 200px;
+  height: 60px;
   border-style: none;
   border-radius: 50px;
   background-color: #FBFEF9;
