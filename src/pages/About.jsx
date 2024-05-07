@@ -5,7 +5,7 @@ export default function About(){
         <div>
             <Nav />
             <div id="about">
-                <h1>This form was made for the Interface Development Technology class. The object of this project is to create a survey containing 3 pages: Home, Survey and About, using React.</h1>
+                <h1>This form was made for the Interface Development Technology class. The objective of this project is to create a survey containing 3 pages: Home, Survey and About, using React.</h1>
             </div>
         </div>
     )

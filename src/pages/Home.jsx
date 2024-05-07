@@ -6,7 +6,7 @@ export default function Home(){
         <div>
             <Nav />
             <div id="home">
-                <h1>Thank you for using Steam! Your feedback is very important for us. Please help ups improve by answering our Survey Form. Click on the button below to start:</h1>
+                <h1>Thank you for using Steam! Your feedback is very important for us. Please help us improve by answering our Survey Form. Click on the button below to start:</h1>
                 <br /><br />
                 <Link to="/forms">
                     <button>Start Survey</button>
